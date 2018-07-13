@@ -5,6 +5,9 @@ if (x>0):
 if (x<0):
     print("its a negative number")
 else:
-    print("it is zero")    
-    	
+    print("it is zero")   
+#my name is khan
+#i eat meeta paan
+#in salman ka dukaan     
+
 
